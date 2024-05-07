@@ -1,1 +1,10 @@
 Behaviour-Driven Development (BDD) is a software development technique that encourages collaboration among developers, testers and business stakeholders.
+
+Gherkin Language?
+-----------------
+Gherkin is a structured language that is used to write BDD tests.
+It uses a specific syntax that is easy to read and understand for both technical and non-technical team members.
+
+Gherkin scenarios are written in a Given-When-Then format to describe the expected behavior of the system in a clear and concise manner.
+
+in BDD, "Given-When-And-Then-But" is the proposed approach for writing test cases.
